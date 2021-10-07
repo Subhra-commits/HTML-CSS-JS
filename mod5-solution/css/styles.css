@@ -11,7 +11,7 @@ body {
   border-radius: 0;
   border: 0;
 }
-p>img{
+.star>img{
   width: 25px;
   height: 25px;
 }
